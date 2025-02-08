@@ -1,1 +1,1 @@
-**https://github.com/MarusyaKr/ono-tebe-nado-fd**
+https://github.com/MarusyaKr/ono-tebe-nado-fd
